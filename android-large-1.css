@@ -1,0 +1,122 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.doctor-1-icon {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  width: 359px;
+  height: 800px;
+  object-fit: cover;
+}
+.android-large-1-child {
+  position: absolute;
+  top: 342px;
+  left: 34px;
+  background-color: #f1feff;
+  width: 293px;
+  height: 247px;
+}
+.android-large-1-item {
+  border: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 376px;
+  left: 169px;
+  width: 150px;
+  height: 31px;
+}
+.email-id,
+.name {
+  position: absolute;
+  top: 376px;
+  left: 83px;
+  font-weight: 500;
+}
+.email-id {
+  top: 431px;
+  left: 80px;
+  cursor: pointer;
+}
+.android-large-1-inner {
+  border: 0;
+  background-color: var(--color-gray-200);
+  position: absolute;
+  top: 424px;
+  left: 169px;
+  width: 150px;
+  height: 31px;
+}
+.userid {
+  position: absolute;
+  top: 476px;
+  left: 80px;
+  font-weight: 500;
+  display: inline-block;
+  width: 79px;
+  height: 23px;
+}
+.android-large-1-child1 {
+  border: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 479px;
+  left: 169px;
+  width: 150px;
+  height: 31px;
+}
+.phone {
+  position: absolute;
+  top: 520px;
+  left: 83px;
+  font-weight: 500;
+  display: inline-block;
+  width: 81px;
+  height: 25px;
+}
+.android-large-1-child2 {
+  border: 0;
+  background-color: var(--color-gray-100);
+  position: absolute;
+  top: 527px;
+  left: 164px;
+  width: 150px;
+  height: 31px;
+}
+.wecare {
+  position: absolute;
+  top: 154px;
+  left: 34px;
+  font-size: 64px;
+  font-family: var(--font-ibarra-real-nova);
+  color: #ea09fd;
+}
+.health-is-wealth {
+  position: absolute;
+  top: 29px;
+  left: 8px;
+  font-size: 47px;
+  font-family: var(--font-ibm-plex-sans);
+  display: inline-block;
+  width: 369px;
+  height: 116px;
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.5);
+}
+.login {
+  position: absolute;
+  top: 268px;
+  left: 39px;
+  font-size: 48px;
+}
+.android-large-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 800px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

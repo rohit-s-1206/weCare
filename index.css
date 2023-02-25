@@ -1,0 +1,231 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.android-large-7-child {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  width: 368px;
+  height: 796px;
+  object-fit: cover;
+}
+.tell-us-about {
+  position: absolute;
+  top: 32px;
+  left: 33px;
+  font-size: var(--font-size-2xl);
+  text-decoration: underline;
+  display: inline-block;
+  width: 306px;
+  height: 39px;
+}
+.android-large-7-item {
+  position: absolute;
+  top: 85px;
+  left: 9px;
+  width: 342px;
+  height: 626px;
+  object-fit: cover;
+  mix-blend-mode: normal;
+}
+.age,
+.weight {
+  position: absolute;
+  top: 135px;
+  left: 32px;
+  display: inline-block;
+  width: 35px;
+  height: 18px;
+}
+.weight {
+  top: 161px;
+  width: 54px;
+}
+.blood-pressure-level,
+.disease-from-which,
+.sugar-level {
+  position: absolute;
+  top: 218px;
+  left: 30px;
+  display: inline-block;
+  width: 152px;
+  height: 18px;
+}
+.disease-from-which,
+.sugar-level {
+  top: 191px;
+  width: 90px;
+}
+.disease-from-which {
+  top: 241px;
+  left: 32px;
+  width: 270px;
+}
+.android-large-7-inner {
+  position: absolute;
+  top: 271px;
+  left: 30px;
+  background-color: var(--color-white);
+  width: 300px;
+  height: 79px;
+}
+.have-you-consulted {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.doctor-and-hospital {
+  margin: 0;
+}
+.have-you-consulted-container {
+  position: absolute;
+  top: 364px;
+  left: 35px;
+  display: inline-block;
+  width: 312px;
+  height: 54px;
+}
+.rectangle-textarea {
+  border: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 430px;
+  left: 30px;
+  width: 305px;
+  height: 73px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 545px;
+  left: 167px;
+  background-color: var(--color-gray-200);
+  width: 150px;
+  height: 31px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 582.5px;
+  left: 142.5px;
+  width: 99px;
+  height: 26px;
+}
+.attach-your-report {
+  position: absolute;
+  top: 552px;
+  left: 31px;
+  display: inline-block;
+  width: 130px;
+  height: 18px;
+}
+.rectangle-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #ccbaba;
+  position: absolute;
+  top: 584px;
+  left: 35px;
+  width: 95px;
+  height: 26px;
+}
+.add-file,
+.add-file1 {
+  position: absolute;
+  top: 588px;
+  left: 55px;
+  display: inline-block;
+  width: 51px;
+  height: 26px;
+}
+.add-file1 {
+  left: 167px;
+  height: 25px;
+}
+.rectangle-input {
+  border: 0;
+  background-color: var(--color-gray-100);
+  position: absolute;
+  top: 673px;
+  left: 136px;
+  width: 117px;
+  height: 27px;
+}
+.if-yes-,
+.which-specialist-do,
+.would-you-like-container {
+  position: absolute;
+  top: 738px;
+  left: 17px;
+  display: inline-block;
+  width: 214px;
+  height: 19px;
+}
+.if-yes-,
+.would-you-like-container {
+  top: 650px;
+  width: 330px;
+  height: 47px;
+}
+.if-yes- {
+  top: 711px;
+  left: 77px;
+  color: #ff0303;
+  width: 136px;
+  height: 18px;
+}
+.android-large-7-child1 {
+  position: absolute;
+  top: 825px;
+  left: 16px;
+  background-color: #d5f1f7;
+  width: 348px;
+  height: 126px;
+}
+.enter-your-city,
+.get-connected-with-container {
+  position: absolute;
+  top: 905px;
+  left: 26px;
+  display: inline-block;
+  width: 131px;
+  height: 25px;
+}
+.get-connected-with-container {
+  top: 846px;
+  color: var(--color-red-200);
+  width: 315px;
+  height: 41px;
+}
+.android-large-7-child2 {
+  position: absolute;
+  top: 766px;
+  left: 22px;
+  background-color: snow;
+  width: 313px;
+  height: 24px;
+}
+.line-icon {
+  position: absolute;
+  top: 773.48px;
+  left: 311.43px;
+  width: 9.58px;
+  height: 11.9px;
+}
+.android-large-7-child3 {
+  position: absolute;
+  top: 773.59px;
+  left: 319.39px;
+  width: 7.46px;
+  height: 11.79px;
+}
+.android-large-7 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 799px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-ibarra-real-nova);
+}
